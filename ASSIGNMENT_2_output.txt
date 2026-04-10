@@ -1,0 +1,25 @@
+[nltk_data] Downloading package punkt to /Users/me/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt_tab to /Users/me/nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     /Users/me/nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger is already up-to-
+[nltk_data]       date!
+[nltk_data] Downloading package averaged_perceptron_tagger_eng to
+[nltk_data]     /Users/me/nltk_data...
+[nltk_data]   Unzipping taggers/averaged_perceptron_tagger_eng.zip.
+
+--- Tokens ---
+['the', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']
+
+--- POS Tagging ---
+the -> DT
+quick -> JJ
+brown -> NN
+fox -> NN
+jumps -> VBZ
+over -> IN
+the -> DT
+lazy -> JJ
+dog -> NN
