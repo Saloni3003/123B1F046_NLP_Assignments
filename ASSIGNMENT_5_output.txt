@@ -1,0 +1,7 @@
+Enter your query:  is it raining today
+
+--- User Query ---
+is it raining today
+
+--- Predicted Intent ---
+weather
