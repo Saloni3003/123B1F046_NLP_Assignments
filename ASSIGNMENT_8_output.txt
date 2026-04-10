@@ -1,0 +1,7 @@
+Enter customer query:  forgot my password and cannot login now
+
+--- User Query ---
+forgot my password and cannot login now
+
+--- Predicted Category ---
+account
