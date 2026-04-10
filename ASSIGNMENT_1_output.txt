@@ -1,6 +1,6 @@
 --- Tokenization ---
 ['i', 'am', 'learning', 'natural', 'language', 'processing', 'and', 'studying', 'different', 'techniques', 'like', 'tokenization', ',', 'stemming', ',', 'and', 'lemmatization', '.']
-
+ 
 --- Stemming ---
 i -> i
 am -> am
