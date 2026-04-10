@@ -1,0 +1,11 @@
+
+Enter your query:  payment refund not received
+
+--- User Query ---
+payment refund not received
+
+--- Most Relevant Result ---
+payment failed refund issue
+
+--- Similarity Score ---
+0.678
