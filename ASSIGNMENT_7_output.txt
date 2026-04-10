@@ -1,0 +1,10 @@
+2026-04-04 21:57:13.207593: E tensorflow/core/grappler/optimizers/meta_optimizer.cc:961] PluggableGraphOptimizer failed: INVALID_ARGUMENT: Failed to deserialize the `graph_buf`.
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 57ms/step
+
+--- Input Sentence ---
+['This', 'is', 'cat']
+
+--- Predicted Labels ---
+This -> VBZ
+is -> VBZ
+cat -> O
