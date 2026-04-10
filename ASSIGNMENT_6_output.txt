@@ -1,0 +1,10 @@
+--- Model Evaluation ---
+Accuracy: 1.0
+
+Enter text to classify:  I Hate you
+
+--- Input Text ---
+I Hate you
+
+--- Predicted Sentiment ---
+negative
