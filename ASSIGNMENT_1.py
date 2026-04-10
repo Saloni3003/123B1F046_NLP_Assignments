@@ -21,7 +21,7 @@ lemmatized = [lemmatizer.lemmatize(word) for word in tokens]
 # formatted output
 print("\n--- Tokenization ---")
 print(tokens)
-
+ 
 print("\n--- Stemming ---")
 for i in range(len(tokens)):
     print(tokens[i], "->", stemmed[i])
