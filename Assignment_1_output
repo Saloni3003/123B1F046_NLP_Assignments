@@ -1,0 +1,48 @@
+--- Tokenization ---
+['i', 'am', 'learning', 'natural', 'language', 'processing', 'and', 'studying', 'different', 'techniques', 'like', 'tokenization', ',', 'stemming', ',', 'and', 'lemmatization', '.']
+
+--- Stemming ---
+i -> i
+am -> am
+learning -> learn
+natural -> natur
+language -> languag
+processing -> process
+and -> and
+studying -> studi
+different -> differ
+techniques -> techniqu
+like -> like
+tokenization -> token
+, -> ,
+stemming -> stem
+, -> ,
+and -> and
+lemmatization -> lemmat
+. -> .
+
+--- Lemmatization ---
+i -> i
+am -> am
+learning -> learning
+natural -> natural
+language -> language
+processing -> processing
+and -> and
+studying -> studying
+different -> different
+techniques -> technique
+like -> like
+tokenization -> tokenization
+, -> ,
+stemming -> stemming
+, -> ,
+and -> and
+lemmatization -> lemmatization
+. -> .
+[nltk_data] Downloading package punkt to /Users/me/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package punkt_tab to /Users/me/nltk_data...
+[nltk_data]   Package punkt_tab is already up-to-date!
+[nltk_data] Downloading package wordnet to /Users/me/nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
